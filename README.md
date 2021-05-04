@@ -15,7 +15,7 @@ with `@available` checks.
 
 1. Click "File -> Swift Packages -> Add Package Dependency..."
 
-1. Enter the URL of this repo (TBD). Use the default version.
+1. Enter the URL of this repo (https://github.com/ryanwilson/Repro-SwiftPMMinVersionBuild). Use the default version.
 
 1. Leave the default Package Product enabled and hit "Finish".
 
