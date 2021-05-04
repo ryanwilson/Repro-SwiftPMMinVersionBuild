@@ -40,7 +40,8 @@ Even if the targeted iOS version in the Xcode project is 14.0, it still fails to
 
 ## Workarounds
 
-Changing the minimum supported iOS version in this repo to `.v11` resolves the issue.
+Changing the minimum supported iOS version in this repo to `.v11` resolves the issue. This can be
+observed by switching the SwiftPM checkout to the branch named `fixed`.
 
 ## Thoughts
 
