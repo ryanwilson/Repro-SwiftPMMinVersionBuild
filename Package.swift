@@ -5,8 +5,7 @@ import PackageDescription
 
 let package = Package(
   name: "Repro-SwiftPMMinVersionBuild",
-  // Changing the platform from v10 to v11 eliminates this issue.
-  platforms: [.iOS(.v10)],
+  platforms: [.iOS(.v11)],
   products: [
     .library(
       name: "Repro-SwiftPMMinVersionBuild",
